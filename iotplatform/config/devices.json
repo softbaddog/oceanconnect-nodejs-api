@@ -1,0 +1,12 @@
+{
+  "devices": [
+    {
+      "deviceType": "OneButton",
+      "manufacturerName": "Huawei",
+      "manufacturerId": "Huawei",
+      "model": "IOTBTN-001",
+      "protocolType": "CoAP",
+      "description": "Huawei NB-IoT OneButton"
+    }
+  ]
+}
